@@ -11,7 +11,7 @@ apt update
 
 # tools
 echo "Install git"
-apt install git
+apt install git -y
 
 # clone project
 echo "Get Script..."
