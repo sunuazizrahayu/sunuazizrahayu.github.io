@@ -20,8 +20,8 @@ git clone https://github.com/sunuazizrahayu/linux-desktop-environment.git instal
 
 # execute script
 bash install/debian11/install.sh
-bash install/debian11/install-software.sh
 bash install/debian11/remaster.sh
+bash install/debian11/install-software.sh
 
 # clean dir
 printf "\nCleaning dir.."
