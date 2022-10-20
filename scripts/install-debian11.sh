@@ -26,3 +26,4 @@ printf "\nCleaning dir.."
 rm -rf install || true
 
 printf "\n\nExecution finish..\n"
+printf "Execute `usermod -aG sudo <username>` to give user sudo access.\n"
