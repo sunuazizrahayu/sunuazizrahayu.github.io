@@ -6,48 +6,17 @@ if ! [ $(id -u) = 0 ]; then
   exit 1
 fi
 
-echo "Adding 'contrib non-free' on repo.."
-sed -i 's/main/main contrib non-free/g' /etc/apt/sources.list
-
 echo "Updating repo"
 apt update
 
 # tools
-apt install sudo bash-completion curl wget lsb-release git -y
+echo "Install git"
+apt install git
 
-# install mine deps
-apt install \
-  # Installing Minimal XFCE \
-  xfce4-appfinder \
-  xfce4-panel \
-  xfce4-session \
-  xfce4-settings \
-  xfce4-terminal \
-  xfconf \
-  xfdesktop4 \
-  xfwm4 \
-  \
-  # XFCE Software \
-  thunar \
-  mousepad \
-  xarchiver \
-  \
-  # Install plugin sound + brightness \
-  xfce4-power-manager \
-  xfce4-pulseaudio-plugin \
-  xfce4-notifyd \
-  \
-  # Install Network Manager \
-  network-manager-gnome \
-  network-manager-openvpn \
-  network-manager-openvpn-gnome \
-  \
-  # other \
-  firefox-esr \
-  chromium \
-  \
-  -y
+# clone project
+echo "Get Script..."
+rm -rf install || true
+git clone https://github.com/sunuazizrahayu/linux-desktop-environment.git install
 
-# Fixing AMD Radeon Driver
-echo "Installing AMD Radeon Driver"
-apt install firmware-amd-graphics libgl1-mesa-dri -y
+# execute script
+bash install/debian11/install.sh
