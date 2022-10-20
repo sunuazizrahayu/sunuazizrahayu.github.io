@@ -7,6 +7,7 @@ if ! [ $(id -u) = 0 ]; then
 fi
 
 echo "Adding 'contrib non-free' on repo.."
+sed -i 's/main contrib non-free/main/g' /etc/apt/sources.list
 sed -i 's/main/main contrib non-free/g' /etc/apt/sources.list
 
 echo "Updating repo"
@@ -17,7 +18,6 @@ apt install sudo bash-completion curl wget lsb-release git -y
 
 # install mine deps
 apt install \
-  # Installing Minimal XFCE \
   xfce4-appfinder \
   xfce4-panel \
   xfce4-session \
@@ -27,22 +27,18 @@ apt install \
   xfdesktop4 \
   xfwm4 \
   \
-  # XFCE Software \
   thunar \
   mousepad \
   xarchiver \
   \
-  # Install plugin sound + brightness \
   xfce4-power-manager \
   xfce4-pulseaudio-plugin \
   xfce4-notifyd \
   \
-  # Install Network Manager \
   network-manager-gnome \
   network-manager-openvpn \
   network-manager-openvpn-gnome \
   \
-  # other \
   firefox-esr \
   chromium \
   \
