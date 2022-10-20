@@ -24,3 +24,5 @@ bash install/debian11/install.sh
 # clean dir
 printf "\nCleaning dir.."
 rm -rf install || true
+
+printf "\n\nExecution finish..\n"
