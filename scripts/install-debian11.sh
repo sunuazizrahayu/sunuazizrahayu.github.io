@@ -6,7 +6,7 @@ if ! [ $(id -u) = 0 ]; then
   exit 1
 fi
 
-echo "Updating repo"
+printf "Updating repo\n"
 apt update
 
 # tools
@@ -20,3 +20,7 @@ git clone https://github.com/sunuazizrahayu/linux-desktop-environment.git instal
 
 # execute script
 bash install/debian11/install.sh
+
+# clean dir
+printf "\nCleaning dir.."
+rm -rf install || true
