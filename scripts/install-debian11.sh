@@ -14,7 +14,7 @@ printf "\nInstall git"
 apt install git -y
 
 # clone project
-printf "\nGet Script..."
+printf "\nGet Script...\n"
 rm -rf install || true
 git clone https://github.com/sunuazizrahayu/linux-desktop-environment.git install
 
