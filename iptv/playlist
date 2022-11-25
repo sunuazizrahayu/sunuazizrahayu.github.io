@@ -1,7 +1,18 @@
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA HD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/dQnczPM1/FS1.jpg" group-title="AR@WORLDCUP2022",FOX SPORT 1 USA HD
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA HD
-http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",TSN 3 HD
 https://alexsports.shop:8443/live/ch1/index.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORT 1 USA HD alt 1
+http://89.187.175.143:80/3056/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 1 HD
+https://list.iptvcat.com/my_list/s/88a5ba30bfd9d593f0729f1203378dd2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 2 HD
+https://list.iptvcat.com/my_list/s/6f2806da8c7e465a62e884b99d7ff87e.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 3 HD
+https://list.iptvcat.com/my_list/s/207193773e965dc88d55b675a462519d.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 4 HD
+https://list.iptvcat.com/my_list/s/ab151cb3101230f01b0bd9ff6eca2979.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 5 HD
+https://list.iptvcat.com/my_list/s/235dbe52941ed92309a53a7edea2b7ac.m3u8
