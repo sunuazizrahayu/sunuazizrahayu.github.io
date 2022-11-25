@@ -1,9 +1,11 @@
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SD
+https://a22.azplay.me/hls/streama206025/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX HD
 https://wswanata.azureedge.net/live/FOX/chunks.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX FHD
+https://lisa.xonthebeach.net/live/fs1us/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORT 1 USA HD
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORT 1 USA FHD
-https://lisa.xonthebeach.net/live/fs1us/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",TSN 3 HD
 https://alexsports.shop:8443/live/ch1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV
