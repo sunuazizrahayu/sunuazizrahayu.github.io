@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://11121314.org:8000/images/632361f8a7cc8295fd11a3f3fdfbc715.jpg" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA HD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA HD
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA HD
 http://89.187.175.143:80/3056/index.m3u8
-#EXTINF:-1 tvg-logo="http://11121314.org:8000/images/632361f8a7cc8295fd11a3f3fdfbc715.jpg" group-title="AR@WORLDCUP2022",TSN 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",TSN 3 HD
 https://alexsports.shop:8443/live/ch1/index.m3u8
 
