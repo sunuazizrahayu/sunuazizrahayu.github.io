@@ -1,3 +1,13 @@
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC
+https://murthyneeraj231.s3.amazonaws.com/worldcup_240.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC SD
+https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC HD
+https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC FHD
+https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX HD
 https://wswanata.azureedge.net/live/FOX/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX FHD
