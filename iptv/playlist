@@ -1,10 +1,12 @@
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 240
 https://murthyneeraj231.s3.amazonaws.com/worldcup_240.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC SD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 360
+https://murthyneeraj231.s3.amazonaws.com/worldcup_360.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 480 SD
 https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC HD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 720 HD
 https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC FHD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 1080 FHD
 https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
 
 
