@@ -6,15 +6,14 @@ https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8
 https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022", [WC] 1080 FHD
 https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022", [WC] 1440 2K
+https://murthyneeraj231.s3.amazonaws.com/worldcup_1440.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022", [WC] 2160 4K
+https://murthyneeraj231.s3.amazonaws.com/worldcup_2160.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",Arena Premium 1
 https://webdi.openhd.lol/cdn/0vKnF7rSjW/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX HD
-https://wswanata.azureedge.net/live/FOX/chunks.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK SD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK FHD
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK HD
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
@@ -54,3 +53,10 @@ https://alexsports.shop:8443/live/ch1/index.m3u8
 https://alexsports.shop:8443/live/ch1/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 4 HD
 https://webdi.openhd.lol/cdn/eplayerTSN_4_HD/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@ITV_UK",ITV 1 FHD
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@ITV_UK",ITV 1 HD
+http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
