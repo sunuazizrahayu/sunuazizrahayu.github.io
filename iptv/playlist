@@ -13,7 +13,7 @@ https://murthyneeraj231.s3.amazonaws.com/worldcup_2160.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",Arena Premium 1
 https://webdi.openhd.lol/cdn/0vKnF7rSjW/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK FHD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK HD
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
@@ -37,8 +37,6 @@ https://alexsports.shop:8443/live/ch1/index.m3u8
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/dQnczPM1/FS1.jpg" group-title="AR@SPORT_FOX",FOX SPORTS 1 USA HD B
 https://wswanata.azureedge.net/live/FS1/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_FOX",FOX HD
-https://wswanata.azureedge.net/live/FOX/chunks.m3u8
 
 
 
@@ -56,7 +54,7 @@ https://webdi.openhd.lol/cdn/eplayerTSN_4_HD/tracks-v1a1/mono.m3u8?|referer=http
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@ITV_UK",ITV 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@ITV_UK",ITV 1
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@ITV_UK",ITV 1 HD
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
