@@ -32,7 +32,16 @@ https://alexsports.shop:8443/live/ch1/index.m3u8
 
 
 
+// INDONESIAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="AR@LOKAL",SCTV_digital
+https://ezstat.ru/SCTV?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="AR@LOKAL",INDOSIAR_digital
+https://02ip.ru/INDOSIAR?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="AR@LOKAL",MOJI_digital
+https://ezstat.ru/MOJI?shareext.ts
 
+
+// BY CHANNEL
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/dQnczPM1/FS1.jpg" group-title="AR@SPORT_FOX",FOX SPORTS 1 USA HD
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/dQnczPM1/FS1.jpg" group-title="AR@SPORT_FOX",FOX SPORTS 1 USA HD B
