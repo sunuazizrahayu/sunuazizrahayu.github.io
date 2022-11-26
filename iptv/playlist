@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 240
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022", [WC] 240
 https://murthyneeraj231.s3.amazonaws.com/worldcup_240.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 480 SD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022", [WC] 480 SD
 https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 720 HD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022", [WC] 720 HD
 https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WC22", WC 1080 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022", [WC] 1080 FHD
 https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
 
 
@@ -14,7 +14,11 @@ https://webdi.openhd.lol/cdn/0vKnF7rSjW/tracks-v1a1/mono.m3u8?|referer=https://w
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX HD
 https://wswanata.azureedge.net/live/FOX/chunks.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV UK HD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK SD
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK HD
+http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK HD B
 https://lisa.xonthebeach.net/live/itvuk_720p/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
