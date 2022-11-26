@@ -9,6 +9,8 @@ https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
 
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",Arena Premium 1
+https://webdi.openhd.lol/cdn/0vKnF7rSjW/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX HD
 https://wswanata.azureedge.net/live/FOX/chunks.m3u8
 
@@ -35,7 +37,12 @@ https://wswanata.azureedge.net/live/FOX/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 1 HD
 https://webdi.openhd.lol/cdn/eplayerTSN_1_HD/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 2 HD
+https://webdi.openhd.lol/cdn/eplayerTSN_2_HD/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 3 HD
+https://webdi.openhd.lol/cdn/eplayerTSN_3_HD/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://alexsports.shop:8443/live/ch1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 3 HD B
 https://alexsports.shop:8443/live/ch1/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="AR@SPORT_TSN",TSN 4 HD
 https://webdi.openhd.lol/cdn/eplayerTSN_4_HD/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
