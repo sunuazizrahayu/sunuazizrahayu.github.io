@@ -17,12 +17,19 @@ https://webdi.openhd.lol/cdn/0vKnF7rSjW/tracks-v1a1/mono.m3u8?|referer=https://w
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK HD
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK HD B
-https://lisa.xonthebeach.net/live/itvuk_720p/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK HD 720
+https://playing.whydontyoustreamwme.com/live/itvuk_720p/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",ITV 1 UK FHD
+https://playing.goforfreedomwme.net/live/itvuk/index.m3u8
+https://9goaltv.to/watch-cameroon-vs-serbia-fifa-world-cup-uhg36zzzd4
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA HD
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA HD B
+https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",FOX SPORTS 1 USA FHD
+https://turnthe.gameon.tel/live/fs1us/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrDgP5qF/images.png" group-title="AR@WORLDCUP2022",TSN 1 HD
 https://webdi.openhd.lol/cdn/eplayerTSN_1_HD/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
